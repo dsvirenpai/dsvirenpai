@@ -22,3 +22,4 @@ Identifying online articles to be analyzed
 <li>Extract the statements with negative sentiment</li>
 <li>Rate the statements based on their polarity</li>
 </ul>
+"# KNN_Forensic-Science" 
