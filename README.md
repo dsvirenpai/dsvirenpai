@@ -5,7 +5,7 @@ Currently, I'm honing my skills by embarking on several data science projects to
 <p>You can find my projects on my GitHub profile, where I share my work and insights. 
 Feel free to reach out to me for collaboration or feedback.</p>
 
-<b>Contact:</b> paiviren06@example.com<br>
+<b>Contact:</b> paiviren06@gmail.com<br>
 <b>LinkedIn:</b> https://www.linkedin.com/in/viren-pai-661710132/
 
 <h4>Currently Learning:</h4>
